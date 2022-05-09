@@ -1,4 +1,4 @@
-# Guess-the-Number-Game
+# Guess-the-Number-Game (Computer)
 
 This is a Python script to play a Guess Number Game with the computer.
 
